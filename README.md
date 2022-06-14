@@ -2,6 +2,8 @@
 
 Here, I am using Capsule Network as a Discriminator and Class Capsules as input to the Generator to generate new Images, and I am then using a DVM-Car dataset to generate new car images using the designed Model. I'll be using DCGAN for comparison the results using FID score.
 
+[Read Final Report](./CapsuleGAN_Final_Report.pdf)
+
 ![Final Output](./images/output.jpg)
 
 ## Methodology & Training
