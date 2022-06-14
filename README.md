@@ -91,38 +91,20 @@ You're all set. Open `capsgan_final.ipynb` file and run code block by block.
 
 ## References
 
+- https://github.com/jindongwang/Pytorch-CapsuleNet
+- The original paper of Capsule Net by Geoffrey Hinton: [Dynamic routing between capsules](https://arxiv.org/abs/1710.09829)
+- Whypoolingisnottheanswertoeveryproblem—byabhishekchatter- jee — medium. https://medium.com/@imdeepmind/why-pooling-is-not-the-answer-to-every-problem-6ad23a8d48f0.
+- Geoffrey E. Hinton, Alex Krizhevsky, and Sida D. Wang. Transforming auto-encoders. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinfor- matics), 6791 LNCS(PART 1):44–51, 2011.
+- Jingming Huang, Bowei Chen, Lan Luo, Shigang Yue, and Iadh Ounis. DVM-CAR: A large-scale automotive dataset for visual marketing research and applications. (1), 2021.
+- Dong Hui Kim. Deep Convolutional GANs for Car Image Generation. 2020.
+- Jonathan Krause, Michael Stark, Jia Deng, and Li Fei-Fei. 3d object representations for fine-grained categorization. In 4th International IEEE Workshop on 3D Representation and Recognition (3dRR-13), Sydney, Australia, 2013.
+- Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. Imagenet classification with deep convolutional neural networks. In F. Pereira, C. J. C. Burges, L. Bottou, and K. Q. Weinberger, editors, Advances in Neural Information Processing Systems, volume 25. Curran Associates, Inc., 2012.
+- Yann Lecun, Leon Bottou, Yoshua Bengio, and Patrick Ha. LeNet. Proceedings of the IEEE, (November):1–46, 1998.
+- Chongxuan Li, Kun Xu, Jun Zhu, and Bo Zhang. Triple generative adversarial nets. Advances in Neural Information Processing Systems, 2017-December:4089–4099, 2017.
+- Kanako Marusaki and Hiroshi Watanabe. Capsule GAN Using Capsule Network for Generator Architecture. 2020.
+- Alec Radford, Luke Metz, and Soumith Chintala. Unsupervised representation learning with deep convolutional generative adversarial networks. 4th International Conference on Learning Representations, ICLR 2016 - Conference Track Proceedings, pages 1–16, 2016.
+- Kruthi N Raj. Capsule Network GAN vs . DCGAN vs . Vanilla GAN for Apparel Image Generation. pages 1947–1971, 2021.
+- Raeid Saqur and Sal Vivona. CapsGAN: Using Dynamic Routing for Generative Adversarial Networks. Advances in Intelligent Systems and Computing, 944(Nips):511–525, 2020.
+- Mary Steen, Soo Downe, Nicola Bamford, and Leroy Edozien. DenseNet:Densely Connected Convolutional Networks arXiv:1608.06993v5. Arxiv, 28(4):362–371, 2018.
+- Jiawei Su, Danilo Vasconcellos Vargas, and Kouichi Sakurai. One Pixel Attack for Fooling Deep Neural Networks. IEEE Transactions on Evolutionary Computation, 23(5):828–841, 2019.
 
-1. https://ai.stanford.edu/ ̃jkrause/cars/car dataset.html.
-https://ai.stanford.edu/jkrause/cars/cardataset.html.(Accessedon04/19/2022).
-
-2. Understanding hinton’s capsule networks. part i: Intuition. — by max pechyonkin — ai3 — theory, practice, business — medium. https://medium.com/ai(Accessed on 04/18/2022).
-
-3. Whypoolingisnottheanswertoeveryproblem—byabhishekchatter- jee — medium. https://medium.com/@imdeepmind/why-pooling-is-not- the-answer-to-every-problem-6ad23a8d48f0. (Accessed on 04/18/2022).
-
-4. Geoffrey E. Hinton, Alex Krizhevsky, and Sida D. Wang. Transforming auto-encoders. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinfor- matics), 6791 LNCS(PART 1):44–51, 2011.
-
-5. Jingming Huang, Bowei Chen, Lan Luo, Shigang Yue, and Iadh Ounis. DVM-CAR: A large-scale automotive dataset for visual marketing research and applications. (1), 2021.
-
-6. Dong Hui Kim. Deep Convolutional GANs for Car Image Generation. 2020.
-
-7. Jonathan Krause, Michael Stark, Jia Deng, and Li Fei-Fei. 3d object representations for fine-grained categorization. In 4th International IEEE Workshop on 3D Representation and Recognition (3dRR-13), Sydney, Australia, 2013.
-
-8. Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. Imagenet classification with deep convolutional neural networks. In F. Pereira, C. J. C. Burges, L. Bottou, and K. Q. Weinberger, editors, Advances in Neural Information Processing Systems, volume 25. Curran Associates, Inc., 2012.
-
-9. Yann Lecun, Leon Bottou, Yoshua Bengio, and Patrick Ha. LeNet. Proceedings of the IEEE, (November):1–46, 1998.
-
-10. Chongxuan Li, Kun Xu, Jun Zhu, and Bo Zhang. Triple generative adversarial nets. Advances in Neural Information Processing Systems, 2017-December:4089–4099, 2017.
-
-11. Kanako Marusaki and Hiroshi Watanabe. Capsule GAN Using Capsule Network for Generator Architecture. 2020.
-
-12. Alec Radford, Luke Metz, and Soumith Chintala. Unsupervised representation learning with deep convolutional generative adversarial networks. 4th International Conference on Learning Representations, ICLR 2016 - Conference Track Proceedings, pages 1–16, 2016.
-
-13. Kruthi N Raj. Capsule Network GAN vs . DCGAN vs . Vanilla GAN for Apparel Image Generation. pages 1947–1971, 2021.
-
-14. Sara Sabour, Nicholas Frosst, and Geoffrey E. Hinton. Dynamic routing between capsules. Advances in Neural Information Processing Systems, 2017-December(Nips):3857–3867, 2017.
-
-15. Raeid Saqur and Sal Vivona. CapsGAN: Using Dynamic Routing for Generative Adversarial Networks. Advances in Intelligent Systems and Computing, 944(Nips):511–525, 2020.
-
-16. Mary Steen, Soo Downe, Nicola Bamford, and Leroy Edozien. DenseNet:Densely Connected Convolutional Networks arXiv:1608.06993v5. Arxiv, 28(4):362–371, 2018.
-
-17. Jiawei Su, Danilo Vasconcellos Vargas, and Kouichi Sakurai. One Pixel Attack for Fooling Deep Neural Networks. IEEE Transactions on Evolutionary Computation, 23(5):828–841, 2019.
